@@ -6,23 +6,15 @@ from lxml import etree
 
 """
 Dict with product objects indexed with their ID
-This ensures that the parts will be unique
+This ensures that the products will be unique
 """
 products_dict: dict[str: objects.Product] = {}
 
 """
-Load the RelaxNG schema
-"""
-relaxng_schema = etree.RelaxNG(file=config.RELAXNG_SCHEMA_FILE)
-
-"""
 Iterate and parse the xmls
-
-    output_elementTree = etree.parse(xml_path)  # <class 'xml.etree.ElementTree.ElementTree'>
-    output_root_element = output_elementTree.getroot()  # <class 'xml.etree.ElementTree.Element'>
 """
 
-for xml_path in config.xml_list:
+for xml_path in config.XML_LIST:
     config.logger.info(f"Processing {xml_path}")
     input_ElementTree = etree.ElementTree(file=xml_path)  # ElementTree
     input_root = input_ElementTree.getroot()
@@ -30,7 +22,7 @@ for xml_path in config.xml_list:
     """
     1. split ./vehicle/name at / (if / in the NAME)
     """
-    categories_from_vehicle_name: Set = set()
+    categories_from_vehicle_name: Set = set()  # set ensures that the parsed categories will be unique
 
     if (name_element := input_root.find("./vehicle/name")) is not None:
         if len(split_name_at_slash := name_element.text.split('/')) > 1:
@@ -49,7 +41,7 @@ for xml_path in config.xml_list:
 
     for product in product_list:
         """
-        Iterate the children elements of <PRODUCT> and get the data.
+        Iterate the children elements of <PRODUCT> and parse their data.
         """
         name: str = ""
         product_no: str = ""
@@ -74,7 +66,7 @@ for xml_path in config.xml_list:
                     case _:
                         continue
 
-            """
+        """
         Extract part categories. Iterate its ancestors and look for the <category> tag.
         """
         main_categories_set: Set[str] = set()
@@ -88,7 +80,7 @@ for xml_path in config.xml_list:
                         "The category has more than one name tag. Skipping adding the category to the product.")
 
         """
-        Check if the object with the product_no exists, and create it if not.
+        Create the product object if its product_no is not present in the products_dict
         """
         if product_no not in products_dict:
             products_dict[product_no] = objects.Product(name=name,
@@ -97,30 +89,11 @@ for xml_path in config.xml_list:
                                                         unit_price_incl_vat=unit_price_incl_vat,
                                                         categories=categories_from_vehicle_name | main_categories_set)
         else:
-            # Just update the categories for the given product_no
+            # If the product_no exists, just update its category set
             products_dict[product_no].update_categories(categories_from_vehicle_name | main_categories_set)
-"""
-Iterate the spare parts
-1. find all product_nos
-2. iterate product_nos 
-    3. check if the product_no is in the output_xml tree
-        - if yes, add categories
-        - if not, add it and add categories
-        - { product_no: ['category'] }
-        - { product_no: name }
-        - { product_no: vat_percent }
-        - { product_no: unit_price_incl_vat } - if not present or empty -> 0
-        - t.j. toto mozes zajebat do objektu "product"
-    2. check their parents (if parent = category, then take the name and put it in the list
-        - do this until None (or whatever is the root)
-AncestorsIterator
-"""
-
-
 
 """
 Generate the output XML.
-
 Create the root element SHOP for the output xml
 """
 output_root = etree.Element("SHOP")  # <class 'lxml.etree._Element'>
@@ -148,11 +121,11 @@ for product in products_dict:
     """
     <NAME>
     """
-    if product_object.name != "":
+    if product_object.name != "": # Needed as <NAME> element cannot be empty
         product_name = etree.SubElement(shopitem, "NAME")
         product_name.text = product_object.name
     """
-    <EAN> (has to be first?)
+    <EAN>
     """
     product_ean = etree.SubElement(shopitem, "EAN")
     product_ean.text = product_object.product_no
@@ -184,8 +157,12 @@ output_ElementTree = etree.ElementTree(output_root)  # <class 'lxml.etree._Eleme
 Validate the XML with RelaxNG and print its error.log
 """
 
+relaxng_schema = etree.RelaxNG(file=config.RELAXNG_SCHEMA_FILE)
+
 relaxng_schema.validate(output_ElementTree)
-config.logger.info(relaxng_schema.error_log)
+config.logger.info(
+    f"Validating output.xml with {config.RELAXNG_SCHEMA_FILE}\n "
+    f"relaxng_schema.error_log (Validation OK if empty): {relaxng_schema.error_log}")
 
 """
 Write the validated tree to the output XML
