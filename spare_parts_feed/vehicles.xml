@@ -1,0 +1,885 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vehicles>
+<vehicle>
+<id>2920</id>
+<name>CFMOTO 250 Jetmax / EU2 (2015 - 2016)</name>
+<image_url>https://img.journeyman.cz/i/73/73/4c5/304c5/400x400/SD7RWe_400x400_846ff1dd8c4c5f41.jpg</image_url>
+<teaser>&lt;p&gt;CF250T-6A&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>2380</id>
+<name>CFMOTO 300NK / EU4 (2020)</name>
+<image_url>https://img.journeyman.cz/i/73/73/2e5/302e5/620x521/GEVgoO_620x521_27178615d9c1d806.jpg</image_url>
+<teaser>&lt;p&gt;CF300&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>2381</id>
+<name>CFMOTO 300NK / EU5 (2021)</name>
+<image_url>https://img.journeyman.cz/i/73/73/2e5/302e5/620x521/GEVgoO_620x521_27178615d9c1d806.jpg</image_url>
+<teaser>&lt;p&gt;CF300-F&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>26076</id>
+<name>CFMOTO 300NK / EU5 (2022)</name>
+<image_url>https://img.journeyman.cz/i/73/73/2e5/302e5/620x521/GEVgoO_620x521_27178615d9c1d806.jpg</image_url>
+<teaser>&lt;p&gt;CF300-BF&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>2382</id>
+<name>CFMOTO 300SR / EU5 2021</name>
+<image_url>https://img.journeyman.cz/i/73/73/2d3/302d3/620x521/dyn0Pb_620x521_435f050e4a510671.png</image_url>
+<teaser>&lt;p&gt;CF300-3F&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>33683</id>
+<name>CFMOTO 300SR / EU5 2022</name>
+<image_url>https://img.journeyman.cz/i/73/73/2d3/302d3/620x521/dyn0Pb_620x521_435f050e4a510671.png</image_url>
+<teaser>&lt;p&gt;CF300-3F&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>2575</id>
+<name>CFMOTO 400NK / EU4 (2019)</name>
+<image_url>https://img.journeyman.cz/i/73/73/3e7/303e7/620x521/ilHdf2_620x521_054934509ff19f45.png</image_url>
+<teaser>&lt;p&gt;CF400-A&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>34384</id>
+<name>CFMOTO 450SR / EU5 (2022)</name>
+<image_url>https://img.journeyman.cz/i/73/73/269/33269/1206x983/pj3PdI_1206x983_7945a8eb26ddc591.png</image_url>
+<teaser>&lt;p&gt;CF400-6F&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>2378</id>
+<name>CFMOTO 650GT / EU4 (2020)</name>
+<image_url>https://img.journeyman.cz/i/73/73/2e4/302e4/620x521/aCkycj_620x521_dda60356a7906b3c.jpg</image_url>
+<teaser>&lt;p&gt;CF650-8&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>2379</id>
+<name>CFMOTO 650GT / EU5 (2021)</name>
+<image_url>https://img.journeyman.cz/i/73/73/2e4/302e4/620x521/aCkycj_620x521_dda60356a7906b3c.jpg</image_url>
+<teaser>&lt;p&gt;CF650-8F&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>32211</id>
+<name>CFMOTO 650GT / EU5 (2022)</name>
+<image_url>https://img.journeyman.cz/i/73/73/2e4/302e4/620x521/aCkycj_620x521_dda60356a7906b3c.jpg</image_url>
+<teaser>&lt;p&gt;CF650-8F&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>1866</id>
+<name>CFMOTO 650MT / EU4 (2018)</name>
+<image_url>https://img.journeyman.cz/i/73/73/2e0/302e0/620x521/VBQlIL_620x521_d987e2505d0e4195.png</image_url>
+<teaser>&lt;p&gt;CF650-3&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>1937</id>
+<name>CFMOTO 650MT / EU4 (2019 - 2020)</name>
+<image_url>https://img.journeyman.cz/i/73/73/2e0/302e0/620x521/VBQlIL_620x521_d987e2505d0e4195.png</image_url>
+<teaser>&lt;p&gt;CF650-3C&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>25110</id>
+<name>CFMOTO 650MT / EU5 (2021)</name>
+<image_url>https://img.journeyman.cz/i/73/73/2e0/302e0/620x521/VBQlIL_620x521_d987e2505d0e4195.png</image_url>
+<teaser>&lt;p&gt;CF650-3F&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>27988</id>
+<name>CFMOTO 650MT / EU5 (2022)</name>
+<image_url>https://img.journeyman.cz/i/73/73/2e0/302e0/620x521/VBQlIL_620x521_d987e2505d0e4195.png</image_url>
+<teaser>&lt;p&gt;CF650-3F&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>2924</id>
+<name>CFMOTO 650NK / EU2 (2016)</name>
+<image_url>https://img.journeyman.cz/i/73/73/2e3/302e3/620x521/a7es9g_620x521_dee473762c3f52bf.jpg</image_url>
+<teaser>&lt;p&gt;CF650&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>2955</id>
+<name>CFMOTO 650NK / EU4 FACELIFT (2020)</name>
+<image_url>https://img.journeyman.cz/i/73/73/2e3/302e3/620x521/a7es9g_620x521_dee473762c3f52bf.jpg</image_url>
+<teaser>&lt;p&gt;CF650-7C&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>16050</id>
+<name>CFMOTO 650NK / EU4 (2018)</name>
+<image_url>https://img.journeyman.cz/i/73/73/2e3/302e3/620x521/a7es9g_620x521_dee473762c3f52bf.jpg</image_url>
+<teaser>&lt;p&gt;CF650-7B&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>16115</id>
+<name>CFMOTO 650NK / EU4 (2019)</name>
+<image_url>https://img.journeyman.cz/i/73/73/2e3/302e3/620x521/a7es9g_620x521_dee473762c3f52bf.jpg</image_url>
+<teaser>&lt;p&gt;CF650-7B&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>2383</id>
+<name>CFMOTO 650NK / EU5 (2021)</name>
+<image_url>https://img.journeyman.cz/i/73/73/2e3/302e3/620x521/a7es9g_620x521_dee473762c3f52bf.jpg</image_url>
+<teaser>&lt;p&gt;CF650-7F&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>26077</id>
+<name>CFMOTO 650NK / EU5 (2022)</name>
+<image_url>https://img.journeyman.cz/i/73/73/2e3/302e3/620x521/a7es9g_620x521_dee473762c3f52bf.jpg</image_url>
+<teaser>&lt;p&gt;CF650-7F&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>31908</id>
+<name>CFMOTO 650TK / EU2 (2015)</name>
+<image_url>https://img.journeyman.cz/i/73/73/4c4/304c4/400x400/7ULxnr_400x400_3a8409a56a9e8555.jpg</image_url>
+<teaser>&lt;p&gt;CF650-2&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>2919</id>
+<name>CFMOTO 650TK / EU2 (2016)</name>
+<image_url>https://img.journeyman.cz/i/73/73/4c4/304c4/400x400/7ULxnr_400x400_3a8409a56a9e8555.jpg</image_url>
+<teaser>&lt;p&gt;CF650-2&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>2391</id>
+<name>CFMOTO 700CL-X / Adventure</name>
+<image_url>https://img.journeyman.cz/i/73/73/2b4/332b4/1701x1495/ptL7A4_1701x1494_f1a41f266852a8fd.png</image_url>
+<teaser></teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>2390</id>
+<name>CFMOTO 700CL-X / Heritage / EU5 (2021 - 2022)</name>
+<image_url>https://img.journeyman.cz/i/73/73/62a/3262a/784x626/EGCLAb_784x626_484d5bfe88b99fc9.png</image_url>
+<teaser>&lt;p&gt;CF700-2&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>25655</id>
+<name>CFMOTO 700CL-X / Sport / EU5 (2022)</name>
+<image_url>https://img.journeyman.cz/i/73/73/2b3/332b3/784x626/J6cljx_784x626_c60756593c8be2cd.png</image_url>
+<teaser>&lt;p&gt;CF700-2A&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>26079</id>
+<name>CFMOTO 800MT / EU5 (2022)</name>
+<image_url>https://img.journeyman.cz/i/73/73/954/32954/784x626/vHTqFA_784x626_230fcd45dfd149b5.png</image_url>
+<teaser>&lt;p&gt;CF800-5&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>8302</id>
+<name>Gladiator RX510 / EU2 (2014)</name>
+<image_url>https://img.journeyman.cz/i/73/73/9e4/2f9e4/620x521/JFBzNt_620x521_a50d584439e2715c.png</image_url>
+<teaser>&lt;p&gt;CF500&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>27123</id>
+<name>Gladiator RX530 / EU2 (2010-2016)</name>
+<image_url>https://img.journeyman.cz/i/73/73/9e2/2f9e2/600x475/SGwmHM_600x475_a48086ead9b36ec6.jpg</image_url>
+<teaser>&lt;p&gt;CF500-2&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>22024</id>
+<name>Gladiator UTV1000 / T1B (2019)</name>
+<image_url>https://img.journeyman.cz/i/73/73/2e9/302e9/620x521/Ew26De_620x521_7ef40951acad164c.png</image_url>
+<teaser>&lt;p&gt;CF1000UTR-3&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>22164</id>
+<name>Gladiator UTV1000 / T1B (2020)</name>
+<image_url>https://img.journeyman.cz/i/73/73/2e9/302e9/620x521/Ew26De_620x521_7ef40951acad164c.png</image_url>
+<teaser>&lt;p&gt;CF1000UTR-3&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>30959</id>
+<name>Gladiator UTV1000 / T1B (2021)</name>
+<image_url>https://img.journeyman.cz/i/73/73/2e9/302e9/620x521/Ew26De_620x521_7ef40951acad164c.png</image_url>
+<teaser>&lt;p&gt;CF1000UTR-3&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>31133</id>
+<name>Gladiator UTV1000 / T1B (2022)</name>
+<image_url>https://img.journeyman.cz/i/73/73/2e9/302e9/620x521/Ew26De_620x521_7ef40951acad164c.png</image_url>
+<teaser>&lt;p&gt;CF1000UTR-3&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>28633</id>
+<name>Gladiator UTV1000 XL / T1B (2022)</name>
+<image_url>https://img.journeyman.cz/i/73/73/9ef/329ef/620x521/UDscv8_620x521_acaab9d8cbb7e699.png</image_url>
+<teaser>&lt;p&gt;CF1000UTR-5&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>4579</id>
+<name>Gladiator UTV530 / EU2 (2008 - 2011)</name>
+<image_url>https://img.journeyman.cz/i/73/73/953/32953/620x521/RwueBK_620x521_e69e70e9d8da9fed.png</image_url>
+<teaser>&lt;p&gt;CF500-3&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>35952</id>
+<name>Gladiator UTV530 / EU2 (2010)</name>
+<image_url>https://img.journeyman.cz/i/73/73/953/32953/620x521/RwueBK_620x521_e69e70e9d8da9fed.png</image_url>
+<teaser>&lt;p&gt;CF500-3&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>36029</id>
+<name>Gladiator UTV530 / EU2 (2011)</name>
+<image_url>https://img.journeyman.cz/i/73/73/953/32953/620x521/RwueBK_620x521_e69e70e9d8da9fed.png</image_url>
+<teaser>&lt;p&gt;CF500‑3&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>28497</id>
+<name>Gladiator UTV550 / EU2 (2016)</name>
+<image_url>https://img.journeyman.cz/i/73/73/2ec/302ec/620x521/hJWNaC_620x521_9ea3988c4ad07256.png</image_url>
+<teaser>&lt;p&gt;CF500UU&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>25656</id>
+<name>Gladiator UTV625 / T1B (2021)</name>
+<image_url>https://img.journeyman.cz/i/73/73/2ea/302ea/620x521/MpSb9v_620x521_c209848da2278f3a.png</image_url>
+<teaser>&lt;p&gt;CF600UTR&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>32336</id>
+<name>Gladiator UTV625 / T1B (2022)</name>
+<image_url>https://img.journeyman.cz/i/73/73/2ea/302ea/620x521/MpSb9v_620x521_c209848da2278f3a.png</image_url>
+<teaser>&lt;p&gt;CF600UTR&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>28576</id>
+<name>Gladiator UTV630 / EU2 (2016)</name>
+<image_url>https://img.journeyman.cz/i/73/73/648/32648/418x456/7vmzG0_418x456_7540b9ee82828224.jpg</image_url>
+<teaser>&lt;p&gt;CF600&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>5893</id>
+<name>Gladiator UTV800 / EU2 (2014)</name>
+<image_url>https://img.journeyman.cz/i/73/73/2e7/302e7/620x521/xQKVua_620x521_506cb5caf401c0e5.png</image_url>
+<teaser>&lt;p&gt;CF800UU-A&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>5974</id>
+<name>Gladiator UTV800 / EU2 (2015)</name>
+<image_url>https://img.journeyman.cz/i/73/73/2e7/302e7/620x521/xQKVua_620x521_506cb5caf401c0e5.png</image_url>
+<teaser>&lt;p&gt;CF800UU-A&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>6057</id>
+<name>Gladiator UTV800 / EU2 (2016)</name>
+<image_url>https://img.journeyman.cz/i/73/73/2e7/302e7/620x521/xQKVua_620x521_506cb5caf401c0e5.png</image_url>
+<teaser>&lt;p&gt;CF800UU-A&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>6154</id>
+<name>Gladiator UTV800 / EU2 (2017)</name>
+<image_url>https://img.journeyman.cz/i/73/73/2e7/302e7/620x521/xQKVua_620x521_506cb5caf401c0e5.png</image_url>
+<teaser>&lt;p&gt;CF800UU-A&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>15408</id>
+<name>Gladiator UTV800 / T1B (2018)</name>
+<image_url>https://img.journeyman.cz/i/73/73/2e7/302e7/620x521/xQKVua_620x521_506cb5caf401c0e5.png</image_url>
+<teaser>&lt;p&gt;CF800UTR-2&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>21741</id>
+<name>Gladiator UTV800 / T1B (2019)</name>
+<image_url>https://img.journeyman.cz/i/73/73/2e7/302e7/620x521/xQKVua_620x521_506cb5caf401c0e5.png</image_url>
+<teaser>&lt;p&gt;CF800UTR-2&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>21841</id>
+<name>Gladiator UTV800 / T1B (2020)</name>
+<image_url>https://img.journeyman.cz/i/73/73/2e7/302e7/620x521/xQKVua_620x521_506cb5caf401c0e5.png</image_url>
+<teaser>&lt;p&gt;CF800UTR-2&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>21936</id>
+<name>Gladiator UTV800 / T1B (2021)</name>
+<image_url>https://img.journeyman.cz/i/73/73/2e7/302e7/620x521/xQKVua_620x521_506cb5caf401c0e5.png</image_url>
+<teaser>&lt;p&gt;CF800UTR-2&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>13107</id>
+<name>Gladiator X1000 / EU4 (2019)</name>
+<image_url>https://img.journeyman.cz/i/73/73/9d8/2f9d8/620x521/b2M8Ut_620x521_6c56e29af4fc2e7f.png</image_url>
+<teaser>&lt;p&gt;CF1000AU&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>19961</id>
+<name>Gladiator X1000 / EU4 (2020)</name>
+<image_url>https://img.journeyman.cz/i/73/73/9d8/2f9d8/620x521/b2M8Ut_620x521_6c56e29af4fc2e7f.png</image_url>
+<teaser>&lt;p&gt;CF1000AU&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>20831</id>
+<name>Gladiator X1000 / EU5 (2021)</name>
+<image_url>https://img.journeyman.cz/i/73/73/9d8/2f9d8/620x521/b2M8Ut_620x521_6c56e29af4fc2e7f.png</image_url>
+<teaser>&lt;p&gt;CF1000AU-F&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>31931</id>
+<name>Gladiator X1000 / EU5 (2022)</name>
+<image_url>https://img.journeyman.cz/i/73/73/9d8/2f9d8/620x521/b2M8Ut_620x521_6c56e29af4fc2e7f.png</image_url>
+<teaser>&lt;p&gt;CF1000AU-F&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>13232</id>
+<name>Gladiator X1000 / T3B (2018)</name>
+<image_url>https://img.journeyman.cz/i/73/73/9d8/2f9d8/620x521/b2M8Ut_620x521_6c56e29af4fc2e7f.png</image_url>
+<teaser>&lt;p&gt;CF1000ATR&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>19635</id>
+<name>Gladiator X1000 / T3B (2019)</name>
+<image_url>https://img.journeyman.cz/i/73/73/9d8/2f9d8/620x521/b2M8Ut_620x521_6c56e29af4fc2e7f.png</image_url>
+<teaser>&lt;p&gt;CF1000ATR&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>19771</id>
+<name>Gladiator X1000 / T3B (2020)</name>
+<image_url>https://img.journeyman.cz/i/73/73/9d8/2f9d8/620x521/b2M8Ut_620x521_6c56e29af4fc2e7f.png</image_url>
+<teaser>&lt;p&gt;CF1000ATR&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>20706</id>
+<name>Gladiator X1000 / T3B (2021)</name>
+<image_url>https://img.journeyman.cz/i/73/73/9d8/2f9d8/620x521/b2M8Ut_620x521_6c56e29af4fc2e7f.png</image_url>
+<teaser>&lt;p&gt;CF1000ATR&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>31932</id>
+<name>Gladiator X1000 / T3B (2022)</name>
+<image_url>https://img.journeyman.cz/i/73/73/9d8/2f9d8/620x521/b2M8Ut_620x521_6c56e29af4fc2e7f.png</image_url>
+<teaser>&lt;p&gt;CF1000ATR&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>36367</id>
+<name>Gladiator X110</name>
+<image_url>https://img.journeyman.cz/i/73/73/af5/33af5/505x352/h5CMOA_505x352_27793f6438b9048b.png</image_url>
+<teaser></teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>28595</id>
+<name>Gladiator X450 G2 / EU5 (2022)</name>
+<image_url>https://img.journeyman.cz/i/73/73/18a/3318a/1271x1088/uSRLq7_1271x1088_d7cd2e55d6fb7a8d.png</image_url>
+<teaser>&lt;p&gt;CF400AU-3S/3L&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>28596</id>
+<name>Gladiator X450 G2 / T3B (2022)</name>
+<image_url>https://img.journeyman.cz/i/73/73/18a/3318a/1271x1088/uSRLq7_1271x1088_d7cd2e55d6fb7a8d.png</image_url>
+<teaser>&lt;p&gt;CF400ATR-3S/3L&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>27550</id>
+<name>Gladiator X450 / X450-A EU2 (2015-2016)</name>
+<image_url>https://img.journeyman.cz/i/73/73/2da/302da/620x521/VQgtpT_620x521_f977ed3a5e310c94.png</image_url>
+<teaser>&lt;p&gt;CF400AU-L&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>27656</id>
+<name>Gladiator X450 / X450-A EU4 (2019-2020)</name>
+<image_url>https://img.journeyman.cz/i/73/73/2da/302da/620x521/VQgtpT_620x521_f977ed3a5e310c94.png</image_url>
+<teaser>&lt;p&gt;CF400AU-B&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>27252</id>
+<name>Gladiator X450 / X450-A EU5 (2021)</name>
+<image_url>https://img.journeyman.cz/i/73/73/2da/302da/620x521/VQgtpT_620x521_f977ed3a5e310c94.png</image_url>
+<teaser>&lt;p&gt;CF400AU-LF&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>32526</id>
+<name>Gladiator X450 / X450-A T3B (2018)</name>
+<image_url>https://img.journeyman.cz/i/73/73/2da/302da/620x521/VQgtpT_620x521_f977ed3a5e310c94.png</image_url>
+<teaser>&lt;p&gt;CF400ATR-2L&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>27345</id>
+<name>Gladiator X450 / X450-A T3B (2021)</name>
+<image_url>https://img.journeyman.cz/i/73/73/2da/302da/620x521/VQgtpT_620x521_f977ed3a5e310c94.png</image_url>
+<teaser>&lt;p&gt;CF400ATR-2L&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>27516</id>
+<name>Gladiator X450 / X450 EU2 (2015-2016)</name>
+<image_url>https://img.journeyman.cz/i/73/73/2da/302da/620x521/VQgtpT_620x521_f977ed3a5e310c94.png</image_url>
+<teaser>&lt;p&gt;CF400AU-S&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>27655</id>
+<name>Gladiator X450 / X450 EU4 (2019-2020)</name>
+<image_url>https://img.journeyman.cz/i/73/73/2da/302da/620x521/VQgtpT_620x521_f977ed3a5e310c94.png</image_url>
+<teaser>&lt;p&gt;CF400AU-A&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>1085</id>
+<name>Gladiator X450 / X450 EU5 (2021)</name>
+<image_url>https://img.journeyman.cz/i/73/73/2da/302da/620x521/VQgtpT_620x521_f977ed3a5e310c94.png</image_url>
+<teaser>&lt;p&gt;CF400AU-SF&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>25654</id>
+<name>Gladiator X450 / X450 T3B (2018)</name>
+<image_url>https://img.journeyman.cz/i/73/73/2da/302da/620x521/VQgtpT_620x521_f977ed3a5e310c94.png</image_url>
+<teaser>&lt;p&gt;CF400ATR-2S&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>27428</id>
+<name>Gladiator X450 / X450 T3B (2021)</name>
+<image_url>https://img.journeyman.cz/i/73/73/2da/302da/620x521/VQgtpT_620x521_f977ed3a5e310c94.png</image_url>
+<teaser>&lt;p&gt;CF400ATR-2S&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>27124</id>
+<name>Gladiator X5 / EU2 (2013 - 2017)</name>
+<image_url>https://img.journeyman.cz/i/73/73/647/32647/418x456/WCp5zH_418x456_b83c4566ff5a4e94.jpg</image_url>
+<teaser>&lt;p&gt;CF500-5&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>28598</id>
+<name>Gladiator X520 G2 / EU5 (2022)</name>
+<image_url>https://img.journeyman.cz/i/73/73/18b/3318b/1417x1215/Ac8TyQ_1417x1214_342b63dcad76fdbe.png</image_url>
+<teaser>&lt;p&gt;CF500AU-9S/9L&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>28600</id>
+<name>Gladiator X520 G2 / T3B (2022)</name>
+<image_url>https://img.journeyman.cz/i/73/73/18b/3318b/1417x1215/Ac8TyQ_1417x1214_342b63dcad76fdbe.png</image_url>
+<teaser>&lt;p&gt;CF500ATR-9S/9L&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>30373</id>
+<name>Gladiator X520 / X520-A EU4 (2020)</name>
+<image_url>https://img.journeyman.cz/i/73/73/6d2/2f6d2/620x521/nPzK21_620x521_5082f7a2fdcb7339.png</image_url>
+<teaser>&lt;p&gt;CF500AU-7C&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>30566</id>
+<name>Gladiator X520 / X520-A EU5 (2021)</name>
+<image_url>https://img.journeyman.cz/i/73/73/6d2/2f6d2/620x521/nPzK21_620x521_5082f7a2fdcb7339.png</image_url>
+<teaser>&lt;p&gt;CF500AU-7LF&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>30853</id>
+<name>Gladiator X520 / X520-A T3B (2018)</name>
+<image_url>https://img.journeyman.cz/i/73/73/6d2/2f6d2/620x521/nPzK21_620x521_5082f7a2fdcb7339.png</image_url>
+<teaser>&lt;p&gt;CF500ATR-2L&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>30285</id>
+<name>Gladiator X520 / X520 EU2 (2016)</name>
+<image_url>https://img.journeyman.cz/i/73/73/6d2/2f6d2/620x521/nPzK21_620x521_5082f7a2fdcb7339.png</image_url>
+<teaser>&lt;p&gt;CF500AU-7S&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>30372</id>
+<name>Gladiator X520 / X520 EU4 (2020)</name>
+<image_url>https://img.journeyman.cz/i/73/73/6d2/2f6d2/620x521/nPzK21_620x521_5082f7a2fdcb7339.png</image_url>
+<teaser>&lt;p&gt;CF500AU-7A&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>30565</id>
+<name>Gladiator X520 / X520 EU5 (2021)</name>
+<image_url>https://img.journeyman.cz/i/73/73/6d2/2f6d2/620x521/nPzK21_620x521_5082f7a2fdcb7339.png</image_url>
+<teaser>&lt;p&gt;CF500AU-7SF&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>30746</id>
+<name>Gladiator X520 / X520 T3B (2018)</name>
+<image_url>https://img.journeyman.cz/i/73/73/6d2/2f6d2/620x521/nPzK21_620x521_5082f7a2fdcb7339.png</image_url>
+<teaser>&lt;p&gt;CF500ATR-2S&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>10499</id>
+<name>Gladiator X550 / EU2 (2015 - 2016)</name>
+<image_url>https://img.journeyman.cz/i/73/73/9df/2f9df/620x521/aIPVKB_620x521_7459795dfad4c630.png</image_url>
+<teaser>&lt;p&gt;CF500AU-6L&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>10588</id>
+<name>Gladiator X550 / EU4 2017</name>
+<image_url>https://img.journeyman.cz/i/73/73/9df/2f9df/620x521/aIPVKB_620x521_7459795dfad4c630.png</image_url>
+<teaser>&lt;p&gt;CF500AU-6B&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>33100</id>
+<name>Gladiator X550 / EU4 2018</name>
+<image_url>https://img.journeyman.cz/i/73/73/9df/2f9df/620x521/aIPVKB_620x521_7459795dfad4c630.png</image_url>
+<teaser>&lt;p&gt;CF500AU-6B&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>32921</id>
+<name>Gladiator X550 / T3B 2017</name>
+<image_url>https://img.journeyman.cz/i/73/73/9df/2f9df/620x521/aIPVKB_620x521_7459795dfad4c630.png</image_url>
+<teaser>&lt;p&gt;CF500ATR-3&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>33200</id>
+<name>Gladiator X550 / T3B 2018</name>
+<image_url>https://img.journeyman.cz/i/73/73/9df/2f9df/620x521/aIPVKB_620x521_7459795dfad4c630.png</image_url>
+<teaser>&lt;p&gt;CF500ATR-3&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>27125</id>
+<name>Gladiator X6 / EU2 (2011 - 2016)</name>
+<image_url>https://img.journeyman.cz/i/73/73/9dd/2f9dd/620x521/puoeQb_620x521_c40343f45ffb46bb.png</image_url>
+<teaser>&lt;p&gt;CF625-B&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>25657</id>
+<name>Gladiator X600 / EU4 (2019)</name>
+<image_url>https://img.journeyman.cz/i/73/73/2e1/302e1/620x521/xL7GJA_620x521_f1e0887f8ed87a3f.png</image_url>
+<teaser>&lt;p&gt;CF600AU-L&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>25658</id>
+<name>Gladiator X600 / EU4 (2020)</name>
+<image_url>https://img.journeyman.cz/i/73/73/2e1/302e1/620x521/xL7GJA_620x521_f1e0887f8ed87a3f.png</image_url>
+<teaser>&lt;p&gt;CF600AU-L&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>13333</id>
+<name>Gladiator X600 / T3B (2018)</name>
+<image_url>https://img.journeyman.cz/i/73/73/2e1/302e1/620x521/xL7GJA_620x521_f1e0887f8ed87a3f.png</image_url>
+<teaser>&lt;p&gt;CF600ATR-L&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>13400</id>
+<name>Gladiator X600 / T3B (2019)</name>
+<image_url>https://img.journeyman.cz/i/73/73/2e1/302e1/620x521/xL7GJA_620x521_f1e0887f8ed87a3f.png</image_url>
+<teaser>&lt;p&gt;CF600ATR-L&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>19877</id>
+<name>Gladiator X600 / T3B (2020)</name>
+<image_url>https://img.journeyman.cz/i/73/73/2e1/302e1/620x521/xL7GJA_620x521_f1e0887f8ed87a3f.png</image_url>
+<teaser>&lt;p&gt;CF600ATR-L&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>16182</id>
+<name>Gladiator X625 / EU4 (2020)-L</name>
+<image_url>https://img.journeyman.cz/i/73/73/2d8/302d8/620x521/L7OJkl_620x521_79d3e15b433b38d9.png</image_url>
+<teaser>&lt;p&gt;CF600AU-3L&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>25660</id>
+<name>Gladiator X625 / EU4 (2020)-S</name>
+<image_url>https://img.journeyman.cz/i/73/73/2d8/302d8/620x521/L7OJkl_620x521_79d3e15b433b38d9.png</image_url>
+<teaser>&lt;p&gt;CF600AU-3S&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>25661</id>
+<name>Gladiator X625 / EU5 (2021)-L</name>
+<image_url>https://img.journeyman.cz/i/73/73/2d8/302d8/620x521/L7OJkl_620x521_79d3e15b433b38d9.png</image_url>
+<teaser>&lt;p&gt;CF600AU-3LF&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>25659</id>
+<name>Gladiator X625 / EU5 (2021)-S</name>
+<image_url>https://img.journeyman.cz/i/73/73/2d8/302d8/620x521/L7OJkl_620x521_79d3e15b433b38d9.png</image_url>
+<teaser>&lt;p&gt;CF600AU-3SF&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>31687</id>
+<name>Gladiator X625 / EU5 (2022)-L</name>
+<image_url>https://img.journeyman.cz/i/73/73/2d8/302d8/620x521/L7OJkl_620x521_79d3e15b433b38d9.png</image_url>
+<teaser>&lt;p&gt;CF600AU-3LF&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>31686</id>
+<name>Gladiator X625 / EU5 (2022)-S</name>
+<image_url>https://img.journeyman.cz/i/73/73/2d8/302d8/620x521/L7OJkl_620x521_79d3e15b433b38d9.png</image_url>
+<teaser>&lt;p&gt;CF600AU-3SF&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>24577</id>
+<name>Gladiator X625 / T3B (2020)-L</name>
+<image_url>https://img.journeyman.cz/i/73/73/2d8/302d8/620x521/L7OJkl_620x521_79d3e15b433b38d9.png</image_url>
+<teaser>&lt;p&gt;CF600ATR-2L&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>24419</id>
+<name>Gladiator X625 / T3B (2020)-S</name>
+<image_url>https://img.journeyman.cz/i/73/73/2d8/302d8/620x521/L7OJkl_620x521_79d3e15b433b38d9.png</image_url>
+<teaser>&lt;p&gt;CF600ATR-2S&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>24656</id>
+<name>Gladiator X625 / T3B (2021)-L</name>
+<image_url>https://img.journeyman.cz/i/73/73/2d8/302d8/620x521/L7OJkl_620x521_79d3e15b433b38d9.png</image_url>
+<teaser>&lt;p&gt;CF600ATR-2L&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>24497</id>
+<name>Gladiator X625 / T3B (2021)-S</name>
+<image_url>https://img.journeyman.cz/i/73/73/2d8/302d8/620x521/L7OJkl_620x521_79d3e15b433b38d9.png</image_url>
+<teaser>&lt;p&gt;CF600ATR-2S&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>26471</id>
+<name>Gladiator X8 / EU2 - FL (2016)</name>
+<image_url>https://img.journeyman.cz/i/73/73/2e2/302e2/620x521/pcR8nq_620x521_f57ee121a52ffc70.png</image_url>
+<teaser>&lt;p&gt;CF800-2&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>7191</id>
+<name>Gladiator X8 / EU2 (2015)</name>
+<image_url>https://img.journeyman.cz/i/73/73/2e2/302e2/620x521/pcR8nq_620x521_f57ee121a52ffc70.png</image_url>
+<teaser>&lt;p&gt;CF800-2&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>26681</id>
+<name>Gladiator X8 / EU4 (2018)</name>
+<image_url>https://img.journeyman.cz/i/73/73/2e2/302e2/620x521/pcR8nq_620x521_f57ee121a52ffc70.png</image_url>
+<teaser>&lt;p&gt;CF800AU-2B&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>26578</id>
+<name>Gladiator X8 / T3B (2018)</name>
+<image_url>https://img.journeyman.cz/i/73/73/2e2/302e2/620x521/pcR8nq_620x521_f57ee121a52ffc70.png</image_url>
+<teaser>&lt;p&gt;CF800ATR-2&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>12256</id>
+<name>Gladiator X850 / EU4 (2018)</name>
+<image_url>https://img.journeyman.cz/i/73/73/2d9/302d9/620x521/erk9HA_620x521_d75c169b60c1d009.png</image_url>
+<teaser>&lt;p&gt;CF800AU-2A&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>26066</id>
+<name>Gladiator X850 / EU4 (2019)</name>
+<image_url>https://img.journeyman.cz/i/73/73/2d9/302d9/620x521/erk9HA_620x521_d75c169b60c1d009.png</image_url>
+<teaser>&lt;p&gt;CF800AU-2A&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>26068</id>
+<name>Gladiator X850 / EU4 (2020)</name>
+<image_url>https://img.journeyman.cz/i/73/73/2d9/302d9/620x521/erk9HA_620x521_d75c169b60c1d009.png</image_url>
+<teaser>&lt;p&gt;CF800AU-2A&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>26069</id>
+<name>Gladiator X850 / EU5 (2021)</name>
+<image_url>https://img.journeyman.cz/i/73/73/2d9/302d9/620x521/erk9HA_620x521_d75c169b60c1d009.png</image_url>
+<teaser>&lt;p&gt;CF800AU-2AF&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>32079</id>
+<name>Gladiator X850 / EU5 (2022)</name>
+<image_url>https://img.journeyman.cz/i/73/73/2d9/302d9/620x521/erk9HA_620x521_d75c169b60c1d009.png</image_url>
+<teaser>&lt;p&gt;CF800AU-2AF&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>25662</id>
+<name>Gladiator X850 / T3B (2018)</name>
+<image_url>https://img.journeyman.cz/i/73/73/2d9/302d9/620x521/erk9HA_620x521_d75c169b60c1d009.png</image_url>
+<teaser>&lt;p&gt;CF800ATR-3&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>25829</id>
+<name>Gladiator X850 / T3B (2019)</name>
+<image_url>https://img.journeyman.cz/i/73/73/2d9/302d9/620x521/erk9HA_620x521_d75c169b60c1d009.png</image_url>
+<teaser>&lt;p&gt;CF800ATR-3&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>26067</id>
+<name>Gladiator X850 / T3B (2020)</name>
+<image_url>https://img.journeyman.cz/i/73/73/2d9/302d9/620x521/erk9HA_620x521_d75c169b60c1d009.png</image_url>
+<teaser>&lt;p&gt;CF800ATR-3&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>26070</id>
+<name>Gladiator X850 / T3B (2021)</name>
+<image_url>https://img.journeyman.cz/i/73/73/2d9/302d9/620x521/erk9HA_620x521_d75c169b60c1d009.png</image_url>
+<teaser>&lt;p&gt;CF800ATR-3&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>32080</id>
+<name>Gladiator X850 / T3B (2022)</name>
+<image_url>https://img.journeyman.cz/i/73/73/2d9/302d9/620x521/erk9HA_620x521_d75c169b60c1d009.png</image_url>
+<teaser>&lt;p&gt;CF800ATR-3&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>30647</id>
+<name>Gladiator Z1000 SPORT R / T1B (2022)</name>
+<image_url>https://img.journeyman.cz/i/73/73/5ff/335ff/1065x746/1FneUv_1065x746_4acb17f219726fe7.png</image_url>
+<teaser>&lt;p&gt;CF1000UTR-C&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>16936</id>
+<name>Gladiator Z1000 SPORT / T1B (2020)</name>
+<image_url>https://img.journeyman.cz/i/73/73/2cf/302cf/620x521/v6ltrQ_620x521_8f5e57bdda58745f.png</image_url>
+<teaser>&lt;p&gt;CF1000UTR-B&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>21647</id>
+<name>Gladiator Z1000 SPORT / T1B (2021)</name>
+<image_url>https://img.journeyman.cz/i/73/73/2cf/302cf/620x521/v6ltrQ_620x521_8f5e57bdda58745f.png</image_url>
+<teaser>&lt;p&gt;CF1000UTR-B&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>26080</id>
+<name>Gladiator Z1000 SPORT / T1B (2022)</name>
+<image_url>https://img.journeyman.cz/i/73/73/2cf/302cf/620x521/v6ltrQ_620x521_8f5e57bdda58745f.png</image_url>
+<teaser>&lt;p&gt;CF1000UTR-B&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>12764</id>
+<name>Gladiator Z1000 / T1B (2018)</name>
+<image_url>https://img.journeyman.cz/i/73/73/2db/302db/1974x1540/cCy5zs_1974x1540_aec3f24b7f911024.png</image_url>
+<teaser>&lt;p&gt;CF1000UTR-2&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>23123</id>
+<name>Gladiator Z1000 / T1B (2019)</name>
+<image_url>https://img.journeyman.cz/i/73/73/2db/302db/1974x1540/cCy5zs_1974x1540_aec3f24b7f911024.png</image_url>
+<teaser>&lt;p&gt;CF1000UTR-2&lt;/p&gt;</teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>28063</id>
+<name>Gladiator Z6 / Z6 EU2 (2016)</name>
+<image_url>https://img.journeyman.cz/i/73/73/2dc/302dc/784x626/CxIrOh_784x626_eadc8bcca7b4027d.png</image_url>
+<teaser></teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>28064</id>
+<name>Gladiator Z6 / Z6EX EU2 (2016)</name>
+<image_url>https://img.journeyman.cz/i/73/73/2dc/302dc/784x626/CxIrOh_784x626_eadc8bcca7b4027d.png</image_url>
+<teaser></teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>28215</id>
+<name>Gladiator Z8 / Z8 EU2 (2016)</name>
+<image_url>https://img.journeyman.cz/i/73/73/2dd/302dd/784x626/AVpesS_784x626_43647229f5b73b2a.png</image_url>
+<teaser></teaser>
+<description></description>
+</vehicle>
+<vehicle>
+<id>28216</id>
+<name>Gladiator Z8 / Z8 UTR (2018)</name>
+<image_url>https://img.journeyman.cz/i/73/73/2dd/302dd/784x626/AVpesS_784x626_43647229f5b73b2a.png</image_url>
+<teaser></teaser>
+<description></description>
+</vehicle>
+</vehicles>
